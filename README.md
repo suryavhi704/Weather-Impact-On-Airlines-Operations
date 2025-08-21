@@ -12,6 +12,8 @@ Airlines often face operational challenges due to weather disruptions. These del
 
 # 📊 Key Insights from Dashboard
 
+Class:Business
+
 Total Flights Analyzed: 2,281
 
 Flights with weather impact: 326
@@ -64,7 +66,7 @@ Enhances decision-making for resource allocation (crew, gates, fuel).
 
 📷 Dashboard Preview
 
-![Image]()
+![Image](https://github.com/suryavhi704/Weather-Impact-On-Airlines-Operations/blob/main/Weather%20impact%20on%20flights.png?raw=true)
 
 # 📌 Conclusion
 
